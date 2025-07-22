@@ -107,7 +107,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-
+      
 
       {/* FAQ Section */}
       <section className="w-full py-12 md:py-24">
